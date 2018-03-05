@@ -1,3 +1,4 @@
+.
 # Prepare for ratelimits
 This is a meme made about b1nzy, a [Discord](https://discordapp.com) developer.
 
